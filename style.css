@@ -6,9 +6,9 @@ body {
 #container {
     background-color:gray;
     border: 8px solid #F5E4C3;
-    height: 410px;
+    height: 450px;
     width: 850px;
-    margin-top:150px;
+    margin-top:100px;
     margin-left:240px;
     text-align: center;
     border-radius:40px;
@@ -21,7 +21,11 @@ h1 {
     font-size:30px;
     margin-right:28px;
 }
+.img{
 
+    height:30px;
+    width:40px;
+}
 
 #dare_btn {
     margin: 50px auto;
@@ -32,6 +36,7 @@ h1 {
     background-color:purple;
     box-shadow: 6px 6px black;
 border-radius:20px;
+margin-top:50px;
 
 
 }
@@ -44,6 +49,7 @@ border-radius:20px;
     background-color:indigo;
     box-shadow: 6px 6px black;
     border-radius:20px;
+    margin-top:50px;
 }
 
 
@@ -52,6 +58,7 @@ border-radius:20px;
     margin: 25px auto;
     font-size: 40px;
     font-weight:40px;
-    color:black;
+    color:white;
+   
 }
 
