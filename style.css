@@ -1,0 +1,57 @@
+body {
+    background-color:aqua;
+    background-size: cover;
+}
+
+#container {
+    background-color:gray;
+    border: 8px solid #F5E4C3;
+    height: 410px;
+    width: 850px;
+    margin-top:150px;
+    margin-left:240px;
+    text-align: center;
+    border-radius:40px;
+   background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color:white;
+    font-size:30px;
+    margin-right:28px;
+}
+
+
+#dare_btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    color:black;
+    background-color:purple;
+    box-shadow: 6px 6px black;
+border-radius:20px;
+
+
+}
+#truth_btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    color:black;
+    background-color:indigo;
+    box-shadow: 6px 6px black;
+    border-radius:20px;
+}
+
+
+#output {
+ 
+    margin: 25px auto;
+    font-size: 40px;
+    font-weight:40px;
+    color:black;
+}
+
